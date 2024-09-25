@@ -3,19 +3,11 @@
 Este proyecto es una aplicación web desarrollada en React que permite gestionar productos y categorías. Los usuarios pueden agregar, editar y eliminar productos y categorías, así como navegar entre diferentes secciones utilizando un menú de navegación.
 
 ## Menú
-- [Integrantes](#Integrantes)
 - [Características](#características)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Requisitos Previos](#requisitos-previos)
 - [Instalación](#instalación)
-
-## Integrantes
-
-- **Jhon Bedoya**
-- **Milena Reyes**
-- **Alanis Tenemaza**
-- **Santiago Llumiquinga**
 
 ## Características
 
